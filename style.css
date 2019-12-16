@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+header, main, nav, footer, figure, figcaption, aside, section, article {display: block;}
+
+header{
+    background-color: #3E5D3B;
+    padding: 1px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+form div {
+    color: #430b8c;
+}
+
+
+nav {
+    float: left;
+}
+
+main {
+    margin-left: 150px;
+}
+footer{
+    text-align: center;
+}
+.button-purple{
+    background-color: #430b8c;
+    color: white;
+}
+
+.dark-blue-text{
+    color: #091d8f;
+}
+
+.dark-teal-text {
+    color: #004d40;
+}
+
+.fa-1x {
+    font-size: 1.5rem;
+}
+
+.green-background{
+    background-color: #3E5D3B
+}
+
+.navbar-toggler.toggler-example {
+    cursor: pointer;
+}
+
+.navbar.navbar-1 .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+
+#wrapper {
+    background-color: #ABDDA6;
+    width: 80%;
+    min-width: 960px;
+    max-width: 2048px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#ABDDA6
+#3E5D3B
+#430b8c
+#8EA4D2
+#6279B8
